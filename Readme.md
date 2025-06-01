@@ -1,12 +1,12 @@
-# MSI-MAG-B460M-MORTAR
+# ASUS TUF B365M PLUS GAMING
 
 ## 配置
 |     -       |                                     |
 | -----------|---------------------------------------|
 | BIOS       | 7C82v15(2021-10-18)                   |
 | OS         | macOS 15.4.1                            |
-| Mobo       | MSI-MAG-B460M-MORTAR                  |
-| CPU        | i5-10400F                              |
+| Mobo       | ASUS TUF B365M PLUS GAMING             |
+| CPU        | E2134                              |
 | RAM        | Kingbank REN DDR4 3600  16GBx2        |
 | GPU        | 迪兰 RX460 4G                          |
 | Network    | Realtek PCIe 2.5Gb Ethernet (RTL8125) |
